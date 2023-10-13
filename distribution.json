@@ -472,7 +472,7 @@
               }
             },
 	        {
-              "id": "pixelmonmod:pixelmon@jar",
+              "id": "pixelmonmod:pixelmonmod:pixelmon@jar",
               "name": "Pixelmon",
               "type": "ForgeMod",
               "artifact": {
