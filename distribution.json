@@ -429,60 +429,60 @@
                 "MD5": "00c2af4e54fb5cd977a8dcfbbb2e4a2f",
                 "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.1/fmlearlydisplay-1.20.1-47.2.1.jar"
               }
-            },
-			{
-              "id": "options.txt",
-              "name": "options.txt",
-              "type": "File",
-              "artifact": {
-                "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/options.txt",
-                "path": "options.txt"
-              }
-            },
-            {
-              "id": "optionsof.txt",
-              "name": "optionsof.txt",
-              "type": "File",
-              "artifact": {
-                "size": 1434,
-                "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/optionsof.txt",
-                "MD5": "3039d19c307973c70e4c80d583a45f5f",
-                "path": "optionsof.txt"
-              }
-            },
-            {
-              "id": "optionsshaders.txt",
-              "name": "optionsshaders.txt",
-              "type": "File",
-              "artifact": {
-                "size": 340,
-                "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/optionsshaders.txt",
-                "path": "optionsshaders.txt"
-              }
-            },
-			{
-              "id": "lite.zip",
-              "name": "lite.zip",
-              "type": "File",
-              "artifact": {
-                "size": 133752,
-                "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/shaderpacks/lite.zip",
-                "MD5": "ef79c3f317ba20008c71d17e3376291c",
-                "path": "shaderpacks/lite.zip"
-              }
-            },
-	        {
-              "id": "pixelmonmod:pixelmonmod:pixelmon@jar",
-              "name": "Pixelmon",
-              "type": "ForgeMod",
-              "artifact": {
-                "size": 411152237,
-                "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.20.1-9.2.3-universal.jar",
-                "MD5": "318d35681b817d7245561ea9b6b83425"
-              }
             }
-          ]
-        }
+	      ]
+		},
+	    {
+	      "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1434,
+            "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/optionsof.txt",
+            "MD5": "3039d19c307973c70e4c80d583a45f5f",
+            "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 340,
+            "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+	    {
+          "id": "lite.zip",
+          "name": "lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 133752,
+            "url": "https://raw.githubusercontent.com/poris551/doselaunchertest/main/servers/pixelmon-1.20.1/files/shaderpacks/lite.zip",
+            "MD5": "ef79c3f317ba20008c71d17e3376291c",
+            "path": "shaderpacks/lite.zip"
+          }
+        },
+	    {
+          "id": "pixelmonmod:pixelmonmod:pixelmon@jar",
+          "name": "Pixelmon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 411152237,
+            "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.20.1-9.2.3-universal.jar",
+            "MD5": "318d35681b817d7245561ea9b6b83425"
+          }
+	    }
       ]
     }
   ]
