@@ -411,9 +411,9 @@
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6046996,
+            "size": 5953599,
             "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/optifine-1.16.5.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+            "MD5": "6c94f96689a0d5052baf21dd88c7b68f"
           }
         },
         {
