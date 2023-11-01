@@ -407,7 +407,7 @@
           }
         },
         {
-          "id": "net.Optifine:OptiFine_1.16.5_HD_U_G8:@jar",
+          "id": "Optifine:Optifine@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
