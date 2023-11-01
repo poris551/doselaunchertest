@@ -495,7 +495,7 @@
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/optifine.jar"
+            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/Optifine-1.16.5.jar"
           }
         },
         {
