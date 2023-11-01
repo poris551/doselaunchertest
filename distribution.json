@@ -491,6 +491,22 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.16.5@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/optifine-1.16.5.jar"
+          }
+        },
+        {
+          "id": "net.optifineforge:optifineforge:1.16.5@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://mediafilez.forgecdn.net/files/3391/448/OptiForge-MC1.16.5-0.5.7.jar"
+          }
+        },
+        {
           "id": "pixelmonmod:pixelmonmod:pixelmon@jar",
           "name": "Pixelmon",
           "type": "ForgeMod",
