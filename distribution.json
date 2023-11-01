@@ -407,7 +407,7 @@
           }
         },
         {
-          "id": "Optifine:Optifine@jar",
+          "id": "net.optifine:optifine:1.16.5@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
